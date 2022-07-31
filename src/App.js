@@ -6,7 +6,10 @@ function App() {
   return (
     <Fragment>
       <Header />
-      <Meals />
+      <main>
+        <Meals />
+      </main>
+      
     </Fragment>
   );
 }
