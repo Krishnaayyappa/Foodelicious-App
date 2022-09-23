@@ -11,14 +11,14 @@ const DUMMY_MEALS = [
     },
     {
       id: 'm2',
-      name: 'Schnitzel',
-      description: 'A german specialty!',
-      price: 16.5,
+      name: 'Malai kofta',
+      description: 'An Indian specialty!',
+      price: 7.5,
     },
     {
       id: 'm3',
-      name: 'Barbecue Burger',
-      description: 'American, raw, meaty',
+      name: 'Chicken butter masala',
+      description: 'North indian Dish',
       price: 12.99,
     },
     {
