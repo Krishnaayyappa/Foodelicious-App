@@ -22,3 +22,13 @@
       transform: translateY(0);
     }
   }
+
+  .err{
+    text-align: center;
+    color: red;
+  }
+
+  .loading{
+    text-align: center;
+    color:white;
+  }
